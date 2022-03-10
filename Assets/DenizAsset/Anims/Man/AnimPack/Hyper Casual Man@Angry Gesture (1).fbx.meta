@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: d031d4cffd0da6a47bd653ef6334fd26
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Hyper Casual Man@Angry Gesture (1)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanPelvis
+      parentName: Hyper Casual Man@Angry Gesture (1)(Clone)
+      position: {x: -0.00039990575, y: 0.83787024, z: 0.008452318}
+      rotation: {x: 0.4749691, y: -0.4764857, z: -0.491763, w: 0.55275214}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanLThigh
+      parentName: Base HumanPelvis
+      position: {x: 0.05130546, y: -0.00910844, z: 0.074980795}
+      rotation: {x: -0.084611155, y: 0.98380554, z: 0.13699889, w: 0.07873369}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanLCalf
+      parentName: Base HumanLThigh
+      position: {x: -0.33147508, y: 0.000015240001, z: 0}
+      rotation: {x: -0.00914117, y: -0.033937097, z: 0.14066362, w: 0.9894334}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanLFoot
+      parentName: Base HumanLCalf
+      position: {x: -0.3629787, y: 0, z: 0}
+      rotation: {x: -0.035619132, y: 0.05982694, z: -0.4921495, w: 0.8677217}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanLToe11
+      parentName: Base HumanLFoot
+      position: {x: -0.17198594, y: -0.00018288, z: 0.00004318}
+      rotation: {x: -0.010488955, y: -0.0028876455, z: -0.2753881, w: 0.9612716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanLToe12
+      parentName: mixamo:Base HumanLToe11
+      position: {x: -0.06250178, y: 0, z: 0}
+      rotation: {x: 0.00023648508, y: 0.000580736, z: 0.99092114, w: -0.13444293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRThigh
+      parentName: Base HumanPelvis
+      position: {x: 0.051302917, y: -0.0106400605, z: -0.074980795}
+      rotation: {x: 0.01404756, y: 0.99520254, z: -0.09201645, w: 0.030125232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRCalf
+      parentName: Base HumanRThigh
+      position: {x: -0.33140397, y: 0.000015240001, z: 0}
+      rotation: {x: 0.07821272, y: 0.028076837, z: 0.07495991, w: 0.993718}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRFoot
+      parentName: Base HumanRCalf
+      position: {x: -0.3629533, y: 0, z: 0}
+      rotation: {x: 0.038252976, y: -0.02010675, z: -0.51864433, w: 0.8538972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanRToe11
+      parentName: Base HumanRFoot
+      position: {x: -0.1714754, y: 0.000099059995, z: 0.00034798}
+      rotation: {x: 0.010119051, y: 0.004539488, z: -0.27707505, w: 0.9607843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanRToe12
+      parentName: mixamo:Base HumanRToe11
+      position: {x: -0.06202934, y: 0, z: 0}
+      rotation: {x: 0.0003904178, y: 0.011480668, z: 0.9909994, w: -0.1333728}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanSpine1
+      parentName: Base HumanPelvis
+      position: {x: -0.09234424, y: -0.016497301, z: 0}
+      rotation: {x: 0.0017622411, y: -0.009047058, z: 0.08058283, w: 0.9967053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanSpine2
+      parentName: Base HumanSpine1
+      position: {x: -0.10944098, y: 0, z: 0}
+      rotation: {x: 0.0027443157, y: -0.014346453, z: -0.013849813, w: 0.9997974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanSpine3
+      parentName: Base HumanSpine2
+      position: {x: -0.12507468, y: 0, z: 0}
+      rotation: {x: 0.004231346, y: -0.013980307, z: -0.11893287, w: 0.9927949}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRibcage
+      parentName: Base HumanSpine3
+      position: {x: -0.14794737, y: 0, z: 0}
+      rotation: {x: 0.0054427814, y: -0.013554692, z: 0.0031133785, w: 0.9998885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanLCollarbone
+      parentName: Base HumanRibcage
+      position: {x: 0.03400552, y: -0.03045206, z: 0.07515352}
+      rotation: {x: -0.08540656, y: 0.826171, z: -0.027795117, w: 0.55621463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanLUpperarm
+      parentName: Base HumanLCollarbone
+      position: {x: -0.15903193, y: 0, z: 0}
+      rotation: {x: 0.19206485, y: -0.12380932, z: 0.082971476, w: 0.9699991}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanLForearm
+      parentName: Base HumanLUpperarm
+      position: {x: -0.16362934, y: 0, z: 0}
+      rotation: {x: 0.0019010145, y: 0.0025236271, z: -0.012482436, w: 0.9999171}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanLPalm
+      parentName: Base HumanLForearm
+      position: {x: -0.2155901, y: 0, z: 0}
+      rotation: {x: 0.871691, y: -0.12463131, z: 0.04143558, w: -0.47212815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanLFinger11
+      parentName: Base HumanLPalm
+      position: {x: -0.114172995, y: -0.00005842, z: -0.000015240001}
+      rotation: {x: 0.011806724, y: -0.06547917, z: -0.044493046, w: 0.99679154}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanLFinger12
+      parentName: mixamo:Base HumanLFinger11
+      position: {x: -0.027559001, y: 0, z: 0}
+      rotation: {x: -0.23848101, y: -0.023445984, z: 0.034059785, w: 0.97026646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanLFinger13
+      parentName: mixamo:Base HumanLFinger12
+      position: {x: -0.04465574, y: 0, z: 0}
+      rotation: {x: -0.8625244, y: -0.037275307, z: 0.0002168584, w: 0.50464064}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanLFinger14
+      parentName: mixamo:Base HumanLFinger13
+      position: {x: -0.025793698, y: 0, z: 0}
+      rotation: {x: -0.0035384593, y: 0.9184718, z: -0.39434585, w: 0.029806018}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRCollarbone
+      parentName: Base HumanRibcage
+      position: {x: 0.03400552, y: -0.02974848, z: -0.07515352}
+      rotation: {x: -0.05329966, y: 0.7759022, z: -0.00555567, w: -0.62857306}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRUpperarm
+      parentName: Base HumanRCollarbone
+      position: {x: -0.15903193, y: 0, z: 0}
+      rotation: {x: -0.27233282, y: 0.1144813, z: 0.080303386, w: 0.9519875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRForearm
+      parentName: Base HumanRUpperarm
+      position: {x: -0.16366236, y: 0, z: 0}
+      rotation: {x: -0.0015206037, y: 0.00018456575, z: -0.02885514, w: 0.99958247}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanRPalm
+      parentName: Base HumanRForearm
+      position: {x: -0.21559265, y: 0, z: 0}
+      rotation: {x: 0.81630814, y: -0.091503486, z: -0.021083133, w: 0.569933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanRFinger11
+      parentName: Base HumanRPalm
+      position: {x: -0.10858755, y: 0.00003556, z: -0.00000508}
+      rotation: {x: -0.008941025, y: 0.07339026, z: -0.029988358, w: 0.9968123}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanRFinger12
+      parentName: mixamo:Base HumanRFinger11
+      position: {x: -0.02921, y: 0, z: 0}
+      rotation: {x: -0.111261755, y: -0.018074958, z: -0.013599691, w: 0.9935337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanRFinger13
+      parentName: mixamo:Base HumanRFinger12
+      position: {x: -0.04357624, y: 0, z: 0}
+      rotation: {x: 0.63875294, y: 0.00813009, z: 0.03242413, w: 0.76868546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanRFinger14
+      parentName: mixamo:Base HumanRFinger13
+      position: {x: -0.03324352, y: 0, z: 0}
+      rotation: {x: -0.005649274, y: -0.6742969, z: 0.73815995, w: -0.020289067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanNeck
+      parentName: Base HumanRibcage
+      position: {x: 0.00939038, y: -0.030101538, z: 0}
+      rotation: {x: 0, y: -0, z: -0.04240838, w: 0.9991004}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base HumanHead
+      parentName: Base HumanNeck
+      position: {x: -0.07001002, y: 0, z: 0}
+      rotation: {x: 0.01096704, y: -0.0024937675, z: 0.05934245, w: 0.9981743}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamo:Base HumanHeadBone001
+      parentName: Base HumanHead
+      position: {x: -0.22303486, y: 0.01896872, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
